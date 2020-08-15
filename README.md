@@ -1,6 +1,6 @@
 # Kijiji-Seller-Segmentation
 
-Hierarchical segmentation model of Kijiji sellers based on site activity.  
+Hierarchical segmentation model of Kijiji sellers based on site activity. A separate clustering was performed on each category to eliminate cross-category confusion and reduce computational load.
 
 Model features:
 * Email domain(public or private) 
